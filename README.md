@@ -1,2 +1,4 @@
 # rahulrajora
-I am student of Arya.Auther-RahulJangid
+I am student of Arya.
+<br>
+Auther-RahulJangid
